@@ -1,8 +1,8 @@
 ### Alberto Tavares de Oliveira
 ### Francisco Bianor Souza de Medeiros
 
-## Sumário
-- [Sumário](#sumário)
+## Sumário teste
+- [Sumário teste](#sumário-teste)
   - [1 - Manipulando pixels em uma imagem](#1---manipulando-pixels-em-uma-imagem)
     - [Exercício 1.1 - regions.cpp](#exercício-11---regionscpp)
     - [Exercício 1.2 - trocaregioes.cpp](#exercício-12---trocaregioescpp)
